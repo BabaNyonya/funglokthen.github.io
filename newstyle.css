@@ -322,7 +322,7 @@ h3 a{
 
 
 
-@media (max-width: 768px) {
+@media (min-width: 600px) {
 
     #wrapper{width: auto;
         min-width: 0;
