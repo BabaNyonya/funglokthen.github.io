@@ -343,7 +343,7 @@ h3 a{
     }
 
   #container{
-      background-color: transparent;
+      background-color: inherit;
   }
 
   .logoinnav{width: 65px;
